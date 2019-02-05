@@ -3,7 +3,7 @@ package testingboolean;
 
 /**
  *
- * @author princ
+ * @author Davindra O'Neal
  */
 import java.util.Scanner;
 public class TestingBoolean { // a boolean is a datatype that can only be either true or false
