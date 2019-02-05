@@ -3,7 +3,7 @@ package testinginput;
 /**
  * 
  * @author Davindra O'Neal
- * Purpose of Program - To test and learn more about accepting inputs
+ * Purpose of Program - To accept a users first and last name and print them
  */
 
 import java.util.Scanner; //Imports the scanner utility to create a new scanner to accept input
