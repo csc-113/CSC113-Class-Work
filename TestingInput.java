@@ -13,7 +13,7 @@ public class TestingInput {
       System.out.println("What is your first name?");
       String firstName = input.nextLine(); // String are declared using "String"//When a scanner is accepting the input for a string you use nextLine
       System.out.println("What is your last name?");
-      String lastName = input.nextLine();
+      String lastName = input.nextLine(); //Declaire the variable lastName whilst also declaring that it will accept the next input 
       System.out.println("You are " + firstName + " " + lastName );
       
       
