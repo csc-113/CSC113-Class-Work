@@ -11,9 +11,9 @@ public class TestingInput {
     public static void main(String[] args) {
       Scanner input = new Scanner(System.in);
       System.out.println("What is your first name?");
-      String firstName = input.next(); // String are declared using "String"//When a scanner is accepting the input for a string no datatype needs to be specified.
+      String firstName = input.nextLine(); // String are declared using "String"//When a scanner is accepting the input for a string you use nextLine
       System.out.println("What is your last name?");
-      String lastName = input.next();
+      String lastName = input.nextLine();
       System.out.println("You are " + firstName + " " + lastName );
       
       
